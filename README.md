@@ -115,14 +115,11 @@ ___
 <a href="https://twitter.com/davidm_smiley">
   <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter-logo.png"/>
 </a>
-<a href="https://www.linkedin.com/in/david-m-smiley/">
-  <img align="left" alt="David M. Smiley | LinkedIn" width="45px" src="assets/linkedin.png"/>
+<a href="https://www.linkedin.com/in/dina-hanna-/">
+  <img align="left" alt="Dina Hanna | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
-<a href="https://nd.academia.edu/DavidMSmiley">
-  <img align="left" alt="David M. Smiley | Academia.edu" width="35px" src="assets/academia.png"/>
-</a>
-<a href="mailto:davidmsmiley@gmail.com">
-  <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
+<a href="mailto:dinaahanna03@gmail.com">
+  <img align="left" alt="Dina Hanna| Gmail" width="60px" src="assets/gmail.png"/>
 </a>
 
 <br>
