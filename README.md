@@ -8,15 +8,10 @@ ___
 ___
 
 ## About Me 👋
-I am a **Student** at the **University of Notre Dame** 🏰. My work bridges the gap between **data science** 📊 and the **humanities** 📖, combining technical expertise with a deep interest in theology and biblical studies.
-
+I am a **Student** at the **University of Notre Dame** studying **Psychology** and **Arabic** with a minor in **Data Science**🏰. 
 ___
 ## Education 🎓
-- **Doctor of Philosophy (In Progress)** - Vrije Universiteit Amsterdam
-- **Master of Science in Data Science** - University of Notre Dame
-- **Master of Theological Studies** - University of Notre Dame
-- **Master of Divinity** - Gordon-Conwell Theological Seminary
-- **Bachelor of Arts** - North Central University
+- **Bachelor of Arts** - University of Notre Dame
 
 ___
 ## Certifications 📜
