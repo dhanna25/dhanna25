@@ -112,9 +112,6 @@ ___
 
 ___
 ## Let's Connect 🌐
-<a href="https://twitter.com/davidm_smiley">
-  <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter-logo.png"/>
-</a>
 <a href="https://www.linkedin.com/in/dina-hanna-/">
   <img align="left" alt="Dina Hanna | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
