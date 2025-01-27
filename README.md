@@ -1,6 +1,4 @@
 ## Hi there 👋
-<code><img height="200px" src="<img width="551" alt="Screenshot 2025-01-27 at 4 00 41 PM" src="https://github.com/user-attachments/assets/01653f1c-47f6-4ee1-9837-10f61dbae45d" />
-"></code>
 
 <span>Photo by <a href="https://unsplash.com/@thomasbormans?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Bormans</a> on <a href="https://unsplash.com/s/photos/old-books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
