@@ -16,15 +16,10 @@ ___
 <a href="https://github.com/user-attachments/files/18564808/citiCompletionCertificate_14102058_67534186.pdf"> CITI Certified</a> 
 </summary>
 <br>
-<strong>150 Hours of Coursework and Projects</strong>
+<strong>Collaborative Institutional Training Initiative</strong>
 <ol>
-  <li>What is Data Science?</li>
-  <li>Tools for Data Science</li>
-  <li>Data Science Methodology</li>
-  <li>Python for Data Science and AI</li>
-  <li>Databases and SQL for Data Science with Python</li>
-  <li>Data Analysis, Visualization, and Machine Learning with Python</li>
-  <li><a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston">Applied Data Science Capstone</a></li>
+  <li>Human Research</li>
+  <li>Social & Behavioral Research</li></a></li>
 </ol>
 </details>
 
