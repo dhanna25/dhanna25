@@ -26,7 +26,8 @@ ___
 
 ___
 ## Skills 🛠️
-*Python
+<ul>
+  <li>Python</li>
 
 *R
 
