@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there! Welcome to my GitHub 👋
 
 <a href="https://github.com/user-attachments/assets/a07e5653-ca39-4925-b6ab-ad0df7896c88" >See Full CV</a> 
 ___
 
-## About Me 👋
+## About Me
 I am a **Student** at the **University of Notre Dame** studying **Psychology** and **Arabic** with a minor in **Data Science**🏰. 
 ___
 ## Education 🎓
@@ -11,12 +11,10 @@ ___
 
 ___
 ## Certifications 📜
-<details><summary>
-🧠 Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
-</summary></details>
 
 <details><summary>
-<a href="https://coursera.org/share/374bbba40c6456b1f397e0cd05d2fccf">🌐 IBM Data Science Professional Certificate</a> – <em>Coursera</em> (May 2020)
+<a href="[citiCompletionCertificate_14102058_67534186.pdf.zip](https://github.com/user-attachments/files/18564791/citiCompletionCertificate_14102058_67534186.pdf.zip)
+  ">🌐 CITI Certified</a> – <em>Coursera</em> (May 2020)
 </summary>
 <br>
 <strong>150 Hours of Coursework and Projects</strong>
