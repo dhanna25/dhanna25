@@ -42,10 +42,10 @@ ___
 ___
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/dina-hanna-/">
-  <img align="left" alt="Dina Hanna | LinkedIn" width="45px" src="assets/linkedin.png"/>
+  <img alt="Dina Hanna | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
 <a href="mailto:dinaahanna03@gmail.com">
-  <img align="left" alt="Dina Hanna| Gmail" width="60px" src="assets/gmail.png"/>
+  <img alt="Dina Hanna| Gmail" width="60px" src="assets/gmail.png"/>
 </a>
 
 <br>
