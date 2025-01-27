@@ -35,7 +35,7 @@ ___
 
 ___
 ## What I hope to do in the future!
- <li>Work on projects analyzing behavioral or survey data. For example, explore analysis in mental health discussions or predict trends in psychological studies.</li>
+<li>Work on projects analyzing behavioral or survey data. For example, explore analysis in mental health discussions or predict trends in psychological studies.</li>
   <li>Focus on projects addressing social issues, such as refugee support. Analyze demographic or economic data related to refugee populations or social programs.</li>
 
 ___
