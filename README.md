@@ -13,7 +13,7 @@ ___
 ## Certifications 📜
 
 <details><summary>
-<a href="[citiCompletionCertificate_14102058_67534186.pdf.zip](https://github.com/user-attachments/files/18564791/citiCompletionCertificate_14102058_67534186.pdf.zip)
+<a href="https://github.com/user-attachments/files/18564791/citiCompletionCertificate_14102058_67534186.pdf.zip
   ">🌐 CITI Certified</a> – <em>Coursera</em> (May 2020)
 </summary>
 <br>
