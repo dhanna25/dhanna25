@@ -13,7 +13,7 @@ ___
 ## Certifications 📜
 
 <details><summary>
-<a href="https://github.com/user-attachments/files/18564808/citiCompletionCertificate_14102058_67534186.pdf">🌐 CITI Certified</a> 
+<a href="https://github.com/user-attachments/files/18564808/citiCompletionCertificate_14102058_67534186.pdf"> CITI Certified</a> 
 </summary>
 <br>
 <strong>150 Hours of Coursework and Projects</strong>
