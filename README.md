@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<span>Photo by <a href="https://github.com/user-attachments/assets/a07e5653-ca39-4925-b6ab-ad0df7896c88" >See Full CV</a> 
+<a href="https://github.com/user-attachments/assets/a07e5653-ca39-4925-b6ab-ad0df7896c88" >See Full CV</a> 
 ___
 
 ## About Me 👋
