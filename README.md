@@ -26,8 +26,8 @@ ___
 
 ___
 ## Languages and Tools 🛠️
-<a>Python</a>
-<a>SPSS</a>
+-Python
+-SPSS
 
 
 ___
