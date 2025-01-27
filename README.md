@@ -27,20 +27,19 @@ ___
 ___
 ## Skills 🛠️
 *Python
+
 *R
+
 *SPSS
+
 *Project Management
+
 *Leadership and Mentoring
 
 ___
-## Future Data Science Projects 🚀
-<details><summary>
-<a href='https://github.com/dmsmiley/Predicting-Salaries'><strong>📈 Classifying and Predicting Salaries</strong></a>
-</summary>
-<br>
-<strong>Skills</strong>
+## What I hope to do in the future!
 <ul>
-  <li>Comparing classification machine learning algorithms: Logistic Regression, Decision Tree, Naive Bayes, and K-Nearest Neighbors</li>
+  <li>Work on projects analyzing behavioral or survey data. For example, you could explore sentiment analysis in mental health discussions or predict trends in psychological studies.</li>
   <li>Visualizing confusion matrices and AUROC</li>
 </ul>
 <strong>Python Libraries</strong>
