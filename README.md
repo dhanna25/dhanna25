@@ -36,18 +36,8 @@ ___
 ___
 ## What I hope to do in the future!
 <ul>
-  <li>Work on projects analyzing behavioral or survey data. For example, explore sentiment analysis in mental health discussions or predict trends in psychological studies.</li>
-  <li>Visualizing confusion matrices and AUROC</li>
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-  <li>Seaborn</li>
-  <li>Scikit-Learn</li>
-  <li>MatplotLib</li>
-</ul>
-</details>
+  <li>Work on projects analyzing behavioral or survey data. For example, explore analysis in mental health discussions or predict trends in psychological studies.</li>
+  <li>Focus on projects addressing social issues, such as refugee support. Analyze demographic or economic data related to refugee populations or social programs.</li>
 
 <details><summary>
 <a href='https://github.com/dmsmiley/Italian_Restaurant_Review_Boston'><strong>🍝 Italian Restaurant Reviews - Boston</strong></a>
