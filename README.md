@@ -36,7 +36,7 @@ ___
 ___
 ## What I hope to do in the future!
 <ul>
-  <li>Work on projects analyzing behavioral or survey data. For example, you could explore sentiment analysis in mental health discussions or predict trends in psychological studies.</li>
+  <li>Work on projects analyzing behavioral or survey data. For example, explore sentiment analysis in mental health discussions or predict trends in psychological studies.</li>
   <li>Visualizing confusion matrices and AUROC</li>
 </ul>
 <strong>Python Libraries</strong>
