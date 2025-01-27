@@ -25,10 +25,11 @@ ___
 </details>
 
 ___
-## Languages and Tools 🛠️
+## Skills 🛠️
 *Python
 
 *SPSS
+*Project Management
 
 
 ___
