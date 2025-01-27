@@ -13,7 +13,7 @@ ___
 ## Certifications 📜
 
 <details><summary>
-<a href="https://github.com/user-attachments/assets/9525d919-9f25-4717-9557-7ca348057cce" />
+<a href="https://github.com/user-attachments/assets/9525d919-9f25-4717-9557-7ca348057cce" 
 "> CITI Certified</a> 
 </summary>
 <br>
