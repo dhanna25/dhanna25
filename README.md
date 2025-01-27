@@ -2,6 +2,8 @@
 
 <span>Photo by <a href="https://unsplash.com/@thomasbormans?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Thomas Bormans</a> on <a href="https://unsplash.com/s/photos/old-books?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
+<span>Photo by <a href="https://github.com/user-attachments/assets/a07e5653-ca39-4925-b6ab-ad0df7896c88" />
+">See Full CV</a> 
 ___
 <a href="https://docs.google.com/document/d/1V-AFyMaIejy_EnHchsy_BF4stvmluYVRHu7YbNOt9DY/edit?usp=sharing">📄 See Full CV</a>
 ___
