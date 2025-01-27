@@ -26,20 +26,12 @@ ___
 
 ___
 ## Languages and Tools 🛠️
-<code><img height="40" src="assets/python.png"></code>
-<code><img height="40" src="assets/RStudio.png"></code>
-<code><img height="40" src="assets/sql.png"></code>
-<code><img height="40" src="assets/pycharm.png"></code>
-<code><img height="40" src="assets/tidyverse-logo.png"></code>
-<br>
-<code><img height="40" src="assets/pandas.png"></code>
-<code><img height="40" src="assets/visual-studio-code.png"></code>
-<code><img height="40" src="assets/jupyter-notebook.png"></code>
-<code><img height="40" src="assets/numpy.png"></code>
-<code><img height="40" src="assets/raspberry.png"></code>
+<a>Python</a>
+<a>SPSS</a>
+
 
 ___
-## Data Science Projects 🚀
+## Future Data Science Projects 🚀
 <details><summary>
 <a href='https://github.com/dmsmiley/Predicting-Salaries'><strong>📈 Classifying and Predicting Salaries</strong></a>
 </summary>
