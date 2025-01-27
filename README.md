@@ -28,9 +28,13 @@ ___
 ## Skills 🛠️
 *Python
 
+*R
+
 *SPSS
+
 *Project Management
 
+*Leadership and Mentoring
 
 ___
 ## Future Data Science Projects 🚀
