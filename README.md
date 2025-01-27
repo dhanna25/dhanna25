@@ -13,7 +13,8 @@ ___
 ## Certifications 📜
 
 <details><summary>
-<a href="https://github.com/user-attachments/files/18564808/citiCompletionCertificate_14102058_67534186"> CITI Certified</a> 
+<a href="https://github.com/user-attachments/assets/9525d919-9f25-4717-9557-7ca348057cce" />
+"> CITI Certified</a> 
 </summary>
 <br>
 <strong>Collaborative Institutional Training Initiative</strong>
