@@ -28,14 +28,14 @@ ___
 ## Skills 🛠️
 <ul>
   <li>Python</li>
-
-*R
-
-*SPSS
-
-*Project Management
-
-*Leadership and Mentoring
+<ul>
+  <li>R</li>
+<ul>
+  <li>SPSS</li>
+<ul>
+  <li>Project Management</li>
+<ul>
+  <li>Leadership and Mentoring</li>
 
 ___
 ## What I hope to do in the future!
