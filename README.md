@@ -27,13 +27,9 @@ ___
 ___
 ## Skills 🛠️
 *Python
-
 *R
-
 *SPSS
-
 *Project Management
-
 *Leadership and Mentoring
 
 ___
