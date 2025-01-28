@@ -9,7 +9,7 @@ ___
 ## Education 🎓
 I am currently a Junior pursuing a double major in Psychology and Arabic with a minor in Data Science 
 <ul>
-  <a href="https://psychology.nd.edu/undergraduate/psychology-major/" >Psychology Major</a> 
+  <a> href="https://psychology.nd.edu/undergraduate/psychology-major/" >Psychology Major</a> 
   <a href="https://arabic.nd.edu/arabic/" >Arabic Major</a> 
   <a href="https://altech.nd.edu/programs/data-science-minor/" >Data Science minor</a> 
 ___
