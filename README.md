@@ -8,7 +8,7 @@ I am a student at the University of Notre Dame, studying Psychology and Arabic w
 ___
 ## Education 🎓
 I am currently a Junior pursuing a double major in Psychology and Arabic with a minor in Data Science 
-</li> href="https://psychology.nd.edu/undergraduate/psychology-major/" >Psychology Major</li> 
+<a href="https://psychology.nd.edu/undergraduate/psychology-major/" >Psychology Major</a> 
 </li> href="https://arabic.nd.edu/arabic/" >Arabic Major</li> 
 </li> href="https://altech.nd.edu/programs/data-science-minor/" >Data Science minor</li> 
 ___
