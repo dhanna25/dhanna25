@@ -13,7 +13,6 @@ I am currently a Junior pursuing a double major in Psychology and Arabic with a 
 </li> href="https://altech.nd.edu/programs/data-science-minor/" >Data Science minor</li> 
 ___
 ## Certifications 📜
-
 <details><summary>
 <a href="https://github.com/user-attachments/assets/9525d919-9f25-4717-9557-7ca348057cce" 
 "> CITI Certified</a> 
