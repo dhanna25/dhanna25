@@ -1,5 +1,4 @@
 ## Hi there! Welcome to my GitHub 👋
-## Hi again
 <a href="https://github.com/user-attachments/assets/a07e5653-ca39-4925-b6ab-ad0df7896c88" >See Full CV</a> 
 ___
 
