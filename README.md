@@ -22,6 +22,7 @@ Conducting research in the BRAVE Lab aimed at fostering healthy development in c
     
 ___
 ## Certificates📜
+<details><summary>
 <a href="https://github.com/user-attachments/assets/9525d919-9f25-4717-9557-7ca348057cce" 
 "> CITI Certified</a> 
 </summary>
