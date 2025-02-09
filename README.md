@@ -13,6 +13,7 @@ I am currently a Junior pursuing a double major in Psychology and Arabic with a 
   <li><a href="https://arabic.nd.edu/arabic/" >Arabic Major</li></a> 
   <li><a href="https://altech.nd.edu/programs/data-science-minor/" >Data Science minor</li></a> 
 
+___
 ## Current Projects
 <a href="https://brave.nd.edu/" 
 ">BRAVE Lab</a> 
