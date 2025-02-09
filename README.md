@@ -15,14 +15,13 @@ I am currently a Junior pursuing a double major in Psychology and Arabic with a 
 
 ___
 ## Current Projects
-Conducting research in the BRAVE Lab aimed at fostering healthy development n children and families
+Conducting research in the BRAVE Lab aimed at fostering healthy development in children and families
 <ul>
   <li><a href="https://brave.nd.edu/" >BRAVE Lab</li></a> 
  
     
 ___
 ## Certificates📜
-<details><summary>
 <a href="https://github.com/user-attachments/assets/9525d919-9f25-4717-9557-7ca348057cce" 
 "> CITI Certified</a> 
 </summary>
