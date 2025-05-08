@@ -49,8 +49,5 @@ Conducting research in the BRAVE Lab aimed at fostering healthy development in c
   <img alt="Dina Hanna| Gmail" src="assets/gmail.png"/>
 </a>
 
-<br>
-<br>
-<br>
 
 
