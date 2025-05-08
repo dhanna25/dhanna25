@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub 👋
+# Hi there! Welcome to my GitHub 👋
 <a href="https://github.com/user-attachments/assets/a07e5653-ca39-4925-b6ab-ad0df7896c88" >See Full CV</a> 
 
 ## About Me
@@ -14,7 +14,7 @@ I am currently a Junior pursuing a double major in Psychology and Arabic with a 
 ## Current Projects
 Conducting research in the BRAVE Lab aimed at fostering healthy development in children and families
 <ul>
-  <li><a href="https://brave.nd.edu/" >BRAVE Lab</li></a> 
+  <li><a href="https://brave.nd.edu/" >BRAVE Lab</li>
 
 ## Certificates📜
 <details><summary>
