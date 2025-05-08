@@ -53,7 +53,7 @@ ___
   <img alt="Dina Hanna | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
 <a href="mailto:dinaahanna03@gmail.com">
-  <img alt="Dina Hanna| Gmail" width="60px" src="assets/gmail.png"/>
+  <img alt="Dina Hanna| Gmail" src="assets/gmail.png"/>
 </a>
 
 <br>
