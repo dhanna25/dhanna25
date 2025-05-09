@@ -56,6 +56,8 @@ Here are some of my key data science projects that highlight my work and skills 
 - **Data Visualization Dashboard**: Created an interactive dashboard with **Plotly** and **Dash** to analyze and visualize sales data. Allows users to filter data by product, region, and sales timeframes.
 - **Clustering Analysis**: Built and evaluated unsupervised machine learning models (e.g., **K-Means**, **DBSCAN**) to segment data based on customer characteristics using **Scikit-Learn** and **Matplotlib**.
 
+Check out **[My Data Science Portfolio](https://github.com/dhanna25/HANNA-Data-Science-Portfolio)** for more!
+
 ___
 
 ## Let's Connect 🌐  
