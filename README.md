@@ -51,10 +51,10 @@ ___
 ## At a Glance: Data Science Projects 📊  
 Here are some of my key data science projects that highlight my work and skills in machine learning, data analysis, and visualization:
 
-- **[Study Abroad Ratings App](#)**: A Streamlit app that collects and visualizes student ratings of their study abroad experiences. Includes real-time updates of city ratings and dynamic visualizations using **Python**, **Pandas**, and **Plotly**.
-- **[Machine Learning Model](#)**: Implemented and deployed a supervised learning model using **Logistic Regression** to predict binary outcomes based on a dataset. Built and deployed the app using **Streamlit**.
-- **[Data Visualization Dashboard](#)**: Created an interactive dashboard with **Plotly** and **Dash** to analyze and visualize sales data. Allows users to filter data by product, region, and sales timeframes.
-- **[Clustering Analysis](#)**: Built and evaluated unsupervised machine learning models (e.g., **K-Means**, **DBSCAN**) to segment data based on customer characteristics using **Scikit-Learn** and **Matplotlib**.
+- **Study Abroad Ratings App**: A Streamlit app that collects and visualizes student ratings of their study abroad experiences. Includes real-time updates of city ratings and dynamic visualizations using **Python**, **Pandas**, and **Plotly**.
+- **Machine Learning Model**: Implemented and deployed a supervised learning model using **Logistic Regression** to predict binary outcomes based on a dataset. Built and deployed the app using **Streamlit**.
+- **Data Visualization Dashboard**: Created an interactive dashboard with **Plotly** and **Dash** to analyze and visualize sales data. Allows users to filter data by product, region, and sales timeframes.
+- **Clustering Analysis**: Built and evaluated unsupervised machine learning models (e.g., **K-Means**, **DBSCAN**) to segment data based on customer characteristics using **Scikit-Learn** and **Matplotlib**.
 
 ___
 
