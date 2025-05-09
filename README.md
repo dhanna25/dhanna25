@@ -4,9 +4,7 @@
 ___
 
 ## About Me  
-I am a student at the University of Notre Dame, double majoring in **Psychology** and **Arabic** with a minor in **Data Science**. My academic experiences include studying abroad in Sydney, Australia, and completing an Arabic immersion program in Amman, Jordan.
-
-Professionally, I have interned at **Morgan Stanley** in Wealth Management and worked as a research assistant, utilizing my Arabic language skills to support interventions for Palestinian families. I have also mentored children with disabilities at **Shake-A-Leg Miami**, tutored students in Math and Science, and served as a **coxswain** for **Notre Dame Men’s Rowing**, leading my team to competitive success. In addition, I am a classically trained violinist and enjoy traveling, running, rowing, and reading.
+I am a student at the University of Notre Dame, studying Psychology and Arabic with a minor in Data Science. My academic journey includes studying abroad in Sydney, Australia, and completing an Arabic immersion program in Amman, Jordan. Professionally, I’ve interned at Morgan Stanley in Wealth Management and worked as a research assistant, using my Arabic skills to support interventions for Palestinian families. I’ve mentored children with disabilities at Shake-A-Leg Miami, tutored students in Math and Science, and served as a coxswain for Notre Dame Men’s Rowing, leading my team to competitive success. I’m also a classically trained violinist and am passionate about traveling, running, rowing, and reading.
 
 ___
 
